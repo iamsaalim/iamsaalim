@@ -7,7 +7,7 @@
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=iamsaalim&style=flat-square" alt="iamsaalim" /><br>
-![My github stats](https://github-readme-stats.vercel.app/api?username=iamsaalim&show_icons=true&hide_border=true&title_color=333&icon_color=333)
+<img src="https://github-readme-stats.vercel.app/api?username=iamsaalim&show_icons=true&count_private=true&title_color=333&icon_color=333" alt="saalim" />
 
 <br>
 
