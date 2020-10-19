@@ -8,7 +8,7 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=iamsaalim&style=flat-square" alt="iamsaalim" /><br>
 <img src="https://github-readme-stats.vercel.app/api?username=iamsaalim&show_icons=true&count_private=true&title_color=333&icon_color=333" alt="saalim" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=iamsaalim" />
 <br>
 
   <a href="https://twitter.com/danascape">
