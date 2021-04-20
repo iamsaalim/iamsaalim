@@ -7,9 +7,9 @@
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="danascape" /><br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=danascape&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff" alt="saalim" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=danascape&show_icons=true&count_private=true&theme=dark" alt="saalim" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danascape&theme=dark"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=danascape" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=danascape&theme=dark" /></p>
 <br>
 
   <a href="https://twitter.com/danascape">
