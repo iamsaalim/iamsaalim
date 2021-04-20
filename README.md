@@ -8,6 +8,7 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="danascape" /><br>
 <img src="https://github-readme-stats.vercel.app/api?username=danascape&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff" alt="saalim" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danascape&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=danascape" />
 <br>
 
