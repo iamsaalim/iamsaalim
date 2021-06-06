@@ -9,6 +9,9 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="danascape" /><br></p>
 
+## Metrics
+![Metrics](https://github.com/danascape/danascape/blob/master/github-metrics.svg)  
+
 ## Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=danascape&show_icons=true&count_private=true&theme=dark" alt="saalim" /></p>
 
